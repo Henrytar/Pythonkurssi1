@@ -1,1 +1,0 @@
-print("hello mac kone1")
